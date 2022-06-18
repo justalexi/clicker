@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   X: 1
   Y: 2
-  UpgradePricesY: 0a00000000000000
-  Z: 3
-  UpgradePricesZ: 0f00000000000000
+  UpgradePricesY: 0a0000000000000014000000000000001e00000000000000
+  Z: 5
+  UpgradePricesZ: 19000000000000003200000000000000
